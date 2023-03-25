@@ -147,5 +147,7 @@
 - Caching - Faster Builds
 - Image Optimization
 
+# 16. Browser List 
+
 
  
