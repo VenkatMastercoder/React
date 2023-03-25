@@ -42,7 +42,7 @@
     npm install -D parcel // will install parcel as Dev Dependencies
 ```
 
-# 5. How to Uninstall Packages?
+# How to Uninstall Packages?
 
 ```js
     npm uninstall package-name  // will uninstall Dependencies
