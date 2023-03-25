@@ -1,6 +1,6 @@
 # Code 
 
-# 1 > IMPORT REACT FROM CDN
+# 1. IMPORT REACT FROM CDN
 ```js
     <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
 ```
@@ -8,7 +8,7 @@
     <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
 ```
 
-# 2 > 3 -- Things to Render a React Element
+# 2. 3 -- Things to Render a React Element
 
 - React.CreateElement 
 ```js
@@ -29,7 +29,7 @@
 ```
 
 
-# 3 > How to Render a Nested React Element
+# 3. How to Render a Nested React Element
 
 - Example Code
 ```html
